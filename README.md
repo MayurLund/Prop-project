@@ -1,6 +1,6 @@
 # Getting Started with Props
 
-This project was build to demonstrate the working with props
+This project was build to demonstrate the working with props and creating first card component page
 
 ## Available Scripts
 
